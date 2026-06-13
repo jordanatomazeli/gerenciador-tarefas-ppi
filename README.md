@@ -1,7 +1,7 @@
 # Gerenciador de Tarefas - PPI
 
 ## Integrante
-Jordana Tomazeli
+Jordana Wantil Tomazeli
 
 ## Disciplina
 Programação para Internet
