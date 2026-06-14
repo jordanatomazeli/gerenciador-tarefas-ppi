@@ -19,7 +19,7 @@ Desenvolver uma aplicação web Full Stack com integração entre frontend e bac
 O sistema consiste em um gerenciador de tarefas que permite:
 
 - Cadastrar tarefas
-- Visualizar tarefas em tempo real
+- Visualizar tarefas cadastradas
 - Excluir tarefas da lista
 
 A aplicação utiliza comunicação entre cliente e servidor por meio de requisições HTTP.
@@ -122,9 +122,9 @@ Responsável por:
 
 ## 9. Métodos HTTP Utilizados
 
-GET → Listar tarefas
-POST → Cadastrar tarefas
-DELETE → Excluir tarefas
+GET → Listar tarefas  
+POST → Cadastrar tarefas  
+DELETE → Excluir tarefas  
 
 ---
 
