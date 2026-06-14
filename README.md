@@ -1,7 +1,8 @@
 # Gerenciador de Tarefas — Sistema Web Full Stack  
 
 Avaliação Processual — Programação para Internet  
-Faculdade Multivix | Curso: Sistemas de Informação | Turma: Noturna
+Faculdade Multivix | Curso: Sistemas de Informação | Turma: Noturna  
+Professor: Edgard da Cunha Pontes  
 
 
 Integrante:
