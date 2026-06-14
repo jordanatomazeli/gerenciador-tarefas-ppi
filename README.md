@@ -93,11 +93,11 @@ Observação: os dados são perdidos ao reiniciar o servidor.
 
 ## 7. Rotas da API
 ### GET /items
-Retorna todas as tarefas cadastradas.
+Retorna todas as tarefas cadastradas.  
 ### POST /items
-Cria uma nova tarefa com título e descrição.
+Cria uma nova tarefa com título e descrição.  
 ### DELETE /items/:id
-Remove uma tarefa a partir do seu identificador.
+Remove uma tarefa a partir do seu identificador.  
 
 ---
 
