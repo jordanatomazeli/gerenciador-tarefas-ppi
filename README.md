@@ -24,16 +24,17 @@ O sistema consiste em um gerenciador de tarefas que permite:
 
 A aplicação utiliza comunicação entre cliente e servidor por meio de requisições HTTP.
 
+```txt
 meu-projeto-ppi/
-├── client/
+├── cliente/
 │   ├── index.html
 │   ├── styles.css
 │   └── app.ts
-└── server/
-├── server.ts
+├── servidor/
+│   └── servidor.ts
 ├── package.json
 └── tsconfig.json
-
+```
 ---
 
 ## 3. Estrutura do Projeto
